@@ -1,0 +1,9 @@
+dataset/
+dataset_test/
+dataset_test_output/
+datasetimages/
+temp/
+temp_test/
+
+dataset_zip.zip
+testpdf.pdf
